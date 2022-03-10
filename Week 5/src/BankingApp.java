@@ -20,7 +20,6 @@ public class BankingApp extends Frame{
     }
     //---
 
-
     private Agent agent;
     private Panel clientButtonsPanel;
 
